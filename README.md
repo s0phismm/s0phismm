@@ -1,8 +1,8 @@
 ## boas vindas ao meu perfil 💜
 
-Meu nome é Sophia MM
+Meu nome é Sophia Maciel Moreira
 
-- Eu estou estudando no Alura
+- Eu estou estudando no[Alura](https://www.alura.com.br)
 - Eu estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -10,3 +10,8 @@ Meu nome é Sophia MM
 
   - 00001096549062sp@al.educacao.sp.gov.br
     🎧 💜
+
+
+
+
+![](https://media.tenor.com/rTAcGBJ4cdYAAAAi/care-bear-purple.gif)
