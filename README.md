@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 💜
+### boas vindas ao meu perfil 💜
 
 Meu nome é Sophia Maciel Moreira
 
@@ -12,6 +12,4 @@ Meu nome é Sophia Maciel Moreira
     🎧 💜
 
 
-
-
-![](https://media.tenor.com/rTAcGBJ4cdYAAAAi/care-bear-purple.gif)
+![](https://media1.tenor.com/m/VhkZ2fDafnQAAAAC/rapunzel-tangled.gif)
